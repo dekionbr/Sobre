@@ -64,6 +64,14 @@ Apresentar os recursos e ferramentas disponíveis no Google Analytics e ensinar 
  
 Site: http://www.cursodeecommerce.com.br
 
+## Palestras
+
+### 2010 - CoéSEO - Rio de Janeiro, RJ.
+Objetivo da Palestra
+
+Visa promover a expansão dos conhecimentos de SEO que na atualidade são de interesse de todos. Sabe-se que cerca de 80% dos cliques em resultados de buscas ficam entre os três primeiros resultados. Do quarto resultado em diante esta porcentagem de cliques cai consideravelmente, daí a importância de se investir em SEO e estar o mais em cima possível nos posicionamentos das pesquisas.
+   
+Site: http://www.coeseo.com.br/
 
 
 
