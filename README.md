@@ -73,6 +73,27 @@ Visa promover a expansão dos conhecimentos de SEO que na atualidade são de int
    
 Site: http://www.coeseo.com.br/
 
+## Portifólio
+
+### churrasconet - https://churrasconet.com.br/
+Responsavel apenas por fazer algumas adaptações e manter o site.
+
+### WSI Consultoria - http://wsiconsultoria.com/
+Adaptações e implantação do site.
+
+### WSI best internet - http://www.wsibestinternet.com.br/
+Adaptações e implantação do site.
+
+### Qualitá turismo - http://www.qualitaturismo.com.br/
+Tema wordpress desenvolvido do zero.
+
+### Extreme Eco Adventure - http://www.extremeecoadventure.com.br
+Tema wordpress desenvolvido do zero.
+
+### João Fortes - http://www.joaofortes.com.br/
+Site criado em Asp.Net 3.5 webforms.
+
+
 
 
 
