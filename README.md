@@ -17,7 +17,7 @@ Profissional Fullstack.
 ### 2007-2008	- Univercidade - Rio de Janeiro, RJ. 
   Tecnologia em Análise e Desenvolvimento de Sistemas - Trancado no segundo período.
 
-### 2011-Atual - Universidade Castelo Branco - Rio de Janeiro, RJ.
+### 2011-2017 - Universidade Castelo Branco - Rio de Janeiro, RJ.
   Sistema de Informação - Cursando último período.
 
 
