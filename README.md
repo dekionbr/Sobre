@@ -20,6 +20,7 @@ Profissional Fullstack.
 ### 2011-Atual - Universidade Castelo Branco - Rio de Janeiro, RJ.
   Sistema de Informação - Cursando último período.
 
+
 ## Experiência Profissional
 
 ### 2016-Atual - CMCorp Soluções - Rio de Janeiro, RJ.
@@ -43,19 +44,22 @@ Profissional Fullstack.
 
   Site: http://oficinarj.com.br/
 
+
 ## Cursos
 
 - Udemy: https://www.udemy.com/user/julio-cesar-domingos-da-silveira-junior/
 - Alura: https://cursos.alura.com.br/user/silveira-julio
 
+
 ## Certificados
  
- ### 2018 - Eduardo Pires - Treinamento e Consultoria - ASP.NET Core e Angular 5 - Online.
+### 2018 - Eduardo Pires - Treinamento e Consultoria - ASP.NET Core e Angular 5 - Online.
 
 Objetivo do Curso:
 Atualizar e capacitar desenvolvedores com os mais novos stacks da Microsoft para desenvolvimento WEB.
  
 Site: http://www.eduardopires.net.br
+
 Certificado: [ASP.NET Core e Angular 5](https://github.com/dekionbr/Sobre/blob/master/Julio%20Cesar%20Silveira.pdf)
 
 ### 2011 - Curso de Ecommerce - Google Analytics e Web Analytics Online - Rio de Janeiro, RJ.
