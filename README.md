@@ -50,12 +50,13 @@ Profissional Fullstack.
 
 ## Certificados
  
-### Mai-2008 - IDCE - Formação Executiva em TI - Rio de Janeiro, RJ.
+ ### 2018 - Eduardo Pires - Treinamento e Consultoria - ASP.NET Core e Angular 5 - Online.
 
 Objetivo do Curso:
-Capacitar os alunos de todas as áreas de TI das empresas a se tornarem executivos, através da troca de conhecimento com executivos experientes do mercado.
-
-Site: http://www.idce.com.br/
+Atualizar e capacitar desenvolvedores com os mais novos stacks da Microsoft para desenvolvimento WEB.
+ 
+Site: http://www.eduardopires.net.br
+Certificado: [ASP.NET Core e Angular 5](https://github.com/dekionbr/Sobre/blob/master/Julio%20Cesar%20Silveira.pdf)
 
 ### 2011 - Curso de Ecommerce - Google Analytics e Web Analytics Online - Rio de Janeiro, RJ.
 
@@ -63,6 +64,14 @@ Objetivo do Curso:
 Apresentar os recursos e ferramentas disponíveis no Google Analytics e ensinar na prática como interpretar seus resultados para melhorar o desempenho de sites e resultados de campanhas de marketing digital.
  
 Site: http://www.cursodeecommerce.com.br
+
+### Mai-2008 - IDCE - Formação Executiva em TI - Rio de Janeiro, RJ.
+
+Objetivo do Curso:
+Capacitar os alunos de todas as áreas de TI das empresas a se tornarem executivos, através da troca de conhecimento com executivos experientes do mercado.
+
+Site: http://www.idce.com.br/
+
 
 ## Palestras
 
