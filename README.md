@@ -18,7 +18,7 @@ Profissional Fullstack.
   Tecnologia em Análise e Desenvolvimento de Sistemas - Trancado no segundo período.
 
 ### 2011-2017 - Universidade Castelo Branco - Rio de Janeiro, RJ.
-  Sistema de Informação - Cursando último período.
+  Sistema de Informação - Completo.
 
 
 ## Experiência Profissional
