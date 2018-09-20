@@ -22,7 +22,7 @@ Profissional Fullstack.
 ### 2016-Atual - CMCorp Soluções - Rio de Janeiro, RJ.
   Cargo: Analista Desenvolvedor Pleno;
  
-  Análise e desenvolvimento de módulos CRM, Desenvolvimento .NET full framework C#, WebForms, MVC, WebAPI, WCF e outros ;   
+  Análise e desenvolvimento de módulos CRM, Desenvolvimento .NET full framework C#, WebForms, MVC, WebAPI e WCF.
   
   Site: http://www.cmcorp.com.br/
 
