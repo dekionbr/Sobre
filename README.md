@@ -11,45 +11,39 @@ Profissional Fullstack.
 
 ## Formação
 
-### 2002-2005	- Escola Técnica Estadual Santa Cruz / FAETEC - Rio de Janeiro, RJ.
-  Nível médio e técnico em informática - Completo.
+### 2005 - Escola Técnica Estadual Santa Cruz / FAETEC - Rio de Janeiro, RJ.
+  Nível médio e técnico em informática.
 
-### 2007-2008	- Univercidade - Rio de Janeiro, RJ. 
-  Tecnologia em Análise e Desenvolvimento de Sistemas - Trancado no segundo período.
-
-### 2011-2017 - Universidade Castelo Branco - Rio de Janeiro, RJ.
-  Sistema de Informação - Completo.
-
+### 2017 - Universidade Castelo Branco - Rio de Janeiro, RJ.
+  Sistema de Informação.
 
 ## Experiência Profissional
 
 ### 2016-Atual - CMCorp Soluções - Rio de Janeiro, RJ.
-  Cargo: Desenvolvedor Back-End Pleno;
+  Cargo: Analista Desenvolvedor Pleno;
  
-  Análise e desenvolvimento de módulos CRM, Programação .NET C# e WebForms...
+  Análise e desenvolvimento de módulos CRM, Desenvolvimento .NET full framework C#, WebForms, MVC, WebAPI, WCF e outros ;   
   
   Site: http://www.cmcorp.com.br/
 
 ### 2013-2015 -	J3 Rede de Viagens Rodoviárias - Rio de Janeiro, RJ.
   Cargo: Analista de Sistemas;
   
-  Análise e desenvolvimento de extranet, B2B e integração de sistemas. Programação .NET C#, MVC e WebAPI.
+  Análise e desenvolvimento de extranet, B2B e integração de sistemas. Desenvolvimento .NET full framework C#, MVC e WebAPI.
   
   Site: http://grupoj3.com.br/
 
 ### 2007-2013 - Oficina Interativa - Rio de Janeiro, RJ.
   Cargo: De Estagiário a Desenvolvedor Pleno dev/front, com atribuições de Gerente de TI;
   
-  Manutenção dos Servidores Web, Programação de sites e suporte no planejamento de novos produtos. Programação .Net C#, PHP, Padrão MVC, WebAPI e WebForms.
+  Manutenção dos Servidores Web, Programação de sites e suporte no planejamento de novos produtos. Desenvolvimento .NET full framework C# e VB, PHP, MVC, WebAPI e WebForms.
 
   Site: http://oficinarj.com.br/
-
 
 ## Cursos
 
 - Udemy: https://www.udemy.com/user/julio-cesar-domingos-da-silveira-junior/
 - Alura: https://cursos.alura.com.br/user/silveira-julio
-
 
 ## Certificados
  
@@ -76,7 +70,6 @@ Capacitar os alunos de todas as áreas de TI das empresas a se tornarem executiv
 
 Site: http://www.idce.com.br/
 
-
 ## Palestras
 
 ### 2010 - CoéSEO - Rio de Janeiro, RJ.
@@ -87,6 +80,9 @@ Visa promover a expansão dos conhecimentos de SEO que na atualidade são de int
 Site: http://www.coeseo.com.br/
 
 ## Portifólio
+
+### churrasconet - http://extranet.sergiocastro.com.br/
+Suporte e manutenção no sistema de vendas da empresa.
 
 ### churrasconet - https://churrasconet.com.br/
 Responsavel apenas por fazer algumas adaptações e manter o site.
