@@ -81,8 +81,8 @@ Site: http://www.coeseo.com.br/
 
 ## Portifólio
 
-### churrasconet - http://extranet.sergiocastro.com.br/
-Suporte e manutenção no sistema de vendas da empresa.
+### Sergio Castro Imóveis - http://extranet.sergiocastro.com.br/
+Suporte, manutenção e desenvolvimento de integrações no sistema de vendas da empresa.
 
 ### churrasconet - https://churrasconet.com.br/
 Responsavel apenas por fazer algumas adaptações e manter o site.
