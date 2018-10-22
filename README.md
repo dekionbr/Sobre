@@ -84,6 +84,9 @@ Site: http://www.coeseo.com.br/
 ### Sergio Castro Imóveis - http://extranet.sergiocastro.com.br/
 Suporte, manutenção e desenvolvimento de integrações no sistema de vendas da empresa.
 
+### Faculdade Cesgranrio - http://facesg.edu.br/
+Site wordpress criado do a partir de uma ferramenta de desenvolvimento de temas.
+
 ### churrasconet - https://churrasconet.com.br/
 Responsavel apenas por fazer algumas adaptações e manter o site.
 
