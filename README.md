@@ -19,7 +19,14 @@ Profissional Fullstack.
 
 ## Experiência Profissional
 
-### 2016-Atual - CMCorp Soluções - Rio de Janeiro, RJ.
+### 2018-Atual - CMCorp Soluções - Rio de Janeiro, RJ.
+  Cargo: Desenvolvedor BackEnd C#;
+ 
+  Análise e desenvolvimento de integrações WebAPIs para aplicativos mobiles.
+  
+  Site: http://www.fulllab.com.br/
+
+### 2016-2018 - CMCorp Soluções - Rio de Janeiro, RJ.
   Cargo: Analista Desenvolvedor Pleno;
  
   Análise e desenvolvimento de módulos CRM, Desenvolvimento .NET full framework C#, WebForms, MVC, WebAPI e WCF.
