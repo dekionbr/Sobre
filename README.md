@@ -19,7 +19,7 @@ Profissional Fullstack.
 
 ## Experiência Profissional
 
-### 2018-Atual - FullLab - Rio de Janeiro, RJ.
+### 2018 - FullLab - Rio de Janeiro, RJ.
   Cargo: Desenvolvedor BackEnd C#;
  
   Análise e desenvolvimento de integrações WebAPIs para aplicativos mobiles.
