@@ -94,7 +94,7 @@ Suporte, manutenção e desenvolvimento de integrações no sistema de vendas da
 ### Faculdade Cesgranrio - http://facesg.edu.br/
 Site wordpress criado do a partir de uma ferramenta de desenvolvimento de temas.
 
-### churrasconet - https://churrasconet.com.br/
+### Churrasconet - https://churrasconet.com.br/
 Responsavel apenas por fazer algumas adaptações e manter o site.
 
 ### WSI Consultoria - http://wsiconsultoria.com/
