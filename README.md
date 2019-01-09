@@ -6,7 +6,7 @@ Profissional Fullstack.
 - GitHub: https://github.com/dekionbr
 - E-mail: silveira.julio@gmail.com
 - Skype: silveirajulio
-- Telefones: 21 9 8009-3106 ou 21 9 9141-5634
+- Telefones: 21 9 8009-3106 ou 21 9 9141-5634 (Whatsapp)
 
 
 ## Formação
