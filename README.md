@@ -20,14 +20,14 @@ Profissional Fullstack.
 ## Experiência Profissional
 
 ### 2019 - Órama - Rio de Janeiro, RJ.
-  Cargo: Desenvolvedor DotNet/Python Senior .NET;
+  Cargo: Desenvolvedor DotNet/Python Senior;
  
   Desenvolvimento de projetos DotNet/Python.
   
   Site: https://www.orama.com.br/
   
 ### 2018-2019 - FullLab - Rio de Janeiro, RJ.
-  Cargo: Desenvolvedor Fullstack .NET Pleno;
+  Cargo: Desenvolvedor Fullstack Pleno;
  
   Análise e desenvolvimento de projetos DotNet/Ruby, APIs RESTfull de integração com aplicativos mobile, SPA em Angular, React e Vue.
     
