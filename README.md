@@ -24,7 +24,7 @@ Profissional Fullstack.
  
   Desenvolvimento de projetos DotNet/Python.
   
-  Site: http://www.fulllab.com.br/
+  Site: https://www.orama.com.br/
   
 ### 2018-2019 - FullLab - Rio de Janeiro, RJ.
   Cargo: Desenvolvedor Fullstack .NET Pleno;
