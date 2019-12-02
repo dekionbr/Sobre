@@ -19,11 +19,18 @@ Profissional Fullstack.
 
 ## Experiência Profissional
 
-### 2018 - FullLab - Rio de Janeiro, RJ.
-  Cargo: Desenvolvedor Fullstack .NET;
+### 2019 - FullLab - Rio de Janeiro, RJ.
+  Cargo: Desenvolvedor DotNet/Python Senior .NET;
  
-  Análise e desenvolvimento de integrações WebAPIs para aplicativos mobiles e aplicações SPA em Angular, React e Vue.
+  Desenvolvimento de projetos DotNet/Python.
   
+  Site: http://www.fulllab.com.br/
+  
+### 2018-2019 - FullLab - Rio de Janeiro, RJ.
+  Cargo: Desenvolvedor Fullstack .NET Pleno;
+ 
+  Análise e desenvolvimento de projetos DotNet/Ruby, APIs RESTfull de integração com aplicativos mobile, SPA em Angular, React e Vue.
+    
   Site: http://www.fulllab.com.br/
 
 ### 2016-2018 - CMCorp Soluções - Rio de Janeiro, RJ.
