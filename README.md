@@ -5,20 +5,30 @@ Profissional Fullstack.
 - LinkedIn: https://br.linkedin.com/in/julio-silveira-08314526
 - GitHub: https://github.com/dekionbr
 - E-mail: silveira.julio@gmail.com
-- Skype: silveirajulio
 - Telefones: 21 9 8009-3106 (Whatsapp)
 
 
 ## Formação
 
-### 2005 - Escola Técnica Estadual Santa Cruz / FAETEC - Rio de Janeiro, RJ.
-  Nível médio e técnico em informática.
+### 2022 - Descomplica - Rio de Janeiro, RJ.
+  Engenharia da Computação.
 
 ### 2017 - Universidade Castelo Branco - Rio de Janeiro, RJ.
   Sistema de Informação.
 
+### 2005 - Escola Técnica Estadual Santa Cruz / FAETEC - Rio de Janeiro, RJ.
+  Nível médio e técnico em informática.
+
+
 ## Experiência Profissional
 
+### 2019 - Stone Co. - Rio de Janeiro, RJ.
+  Cargo: Software Engineer III.
+ 
+  Desenvolver e manter solução de pagamento mundo fisico (Pinpad) para automações e PDVs.
+  
+  Site: [https://www.orama.com.br/](https://www.stone.com.br/)
+  
 ### 2019 - Órama - Rio de Janeiro, RJ.
   Cargo: Desenvolvedor DotNet/Python Senior;
  
