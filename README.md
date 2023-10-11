@@ -27,42 +27,42 @@ Profissional Fullstack.
  
   Desenvolver e manter solução de pagamento mundo fisico (Pinpad) para automações e PDVs.
   
-  Site: [https://www.orama.com.br/](https://www.stone.com.br/)
+  Site: [Stone](https://www.stone.com.br/)
   
 ### 2019 - Órama - Rio de Janeiro, RJ.
   Cargo: Desenvolvedor DotNet/Python Senior;
  
-  Desenvolvimento de projetos DotNet/Python.
+  Desenvolvimento de projetos backoffice em DotNet/Python.
   
-  Site: https://www.orama.com.br/
+  Site: [Orama Investimentos](https://www.orama.com.br/)
   
 ### 2018-2019 - FullLab - Rio de Janeiro, RJ.
   Cargo: Desenvolvedor Fullstack Pleno;
  
   Análise e desenvolvimento de projetos DotNet/Ruby, APIs RESTfull de integração com aplicativos mobile, SPA em Angular, React e Vue.
     
-  Site: http://www.fulllab.com.br/
+  Site: [Fulllab](http://www.fulllab.com.br/)
 
 ### 2016-2018 - CMCorp Soluções - Rio de Janeiro, RJ.
   Cargo: Analista Desenvolvedor Pleno;
  
   Análise e desenvolvimento de módulos CRM, Desenvolvimento .NET full framework C#, WebForms, MVC, WebAPI e WCF.
   
-  Site: http://www.cmcorp.com.br/
+  Site: [CMCorp](http://www.cmcorp.com.br/)
 
 ### 2013-2015 -	J3 Rede de Viagens Rodoviárias - Rio de Janeiro, RJ.
   Cargo: Analista de Sistemas;
   
   Análise e desenvolvimento de extranet, B2B e integração de sistemas. Desenvolvimento .NET full framework C#, MVC e WebAPI.
   
-  Site: http://grupoj3.com.br/
+  Site: [Grupo J3](http://grupoj3.com.br/)
 
 ### 2007-2013 - Oficina Interativa - Rio de Janeiro, RJ.
   Cargo: De Estagiário a Desenvolvedor Pleno dev/front, com atribuições de Gerente de TI;
   
   Manutenção dos Servidores Web, Programação de sites e suporte no planejamento de novos produtos. Desenvolvimento .NET full framework C# e VB, PHP, MVC, WebAPI e WebForms.
 
-  Site: http://oficinarj.com.br/
+  Site: [Oficina Interativa](http://oficinarj.com.br/)
 
 ## Cursos
 
